@@ -137,5 +137,6 @@ This project taught me that:
 - Building in public creates accountability
 - Every error is a learning opportunity
 - I’m fully capable of building AI products end‑to‑end
+
 This toolkit represents a major milestone in my transition from Product Owner → Product Manager.
 
