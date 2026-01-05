@@ -13,8 +13,8 @@ Includes:
 - Stakeholder Alignment Assistant
 Explore the project:
 - 👉 Case Study
-- 👉 Live Demo: <https://ai-appuct-toolkit-3jajkwrxzhjryvfnkpxl4s.streamlit.app/>
-- 👉 GitHub Repository: <https://github.com/mayarnaldo/ai-product-toolkit>
+- 👉 [Live Demo](https://ai-appuct-toolkit-3jajkwrxzhjryvfnkpxl4s.streamlit.app/)
+- 👉 [GitHub Repository](https://github.com/mayarnaldo/ai-product-toolkit)
 
 📁 Projects
 I’m building a suite of AI tools designed specifically for Product Managers.
