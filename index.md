@@ -39,9 +39,9 @@ Browse all projects in the Projects folder.
 - Stakeholder alignment
 
 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/mayarnaldo
-- GitHub: https://github.com/mayarnaldo
-- Email: mayarnaldo@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mayarnaldo)
+- [Github] (https://github.com/mayarnaldo)
+- [Email] (mayarnaldo@gmail.com)
   
 I’m open to Product Manager roles, AI‑driven product teams, and opportunities where I can build meaningful tools that improve workflows.
 
