@@ -1,5 +1,6 @@
 
 May Urania A. Arnaldo
+
 AI‑Driven Product Manager | Builder of Practical AI Tools
 Welcome to my portfolio. I design and build AI‑powered tools that streamline product workflows, reduce manual effort, and turn unstructured information into actionable insights.
 My work blends product thinking, hands‑on development, and a strong focus on real‑world usability.
